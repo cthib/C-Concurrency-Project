@@ -15,3 +15,6 @@ After compiling, the code must be accompanied by a .txt file with the following 
 The first row signifies the number of "customers" to be created.
 The following rows:</br>
 ID:ArrivalTime,ServiceTime,Priority
+
+To run in command line:</br>
+./PQS customers.txt
